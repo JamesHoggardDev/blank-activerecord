@@ -42,12 +42,4 @@ shrimp = Meal.create(name: "Shrimp Scampi", recipe:"Ingredients:\n2tbsps butter 
 pepper_pasta = Meal.create(name: "Roasted Red Pepper Pasta", recipe:"Ingredients:\n1 lb Rigatoni\n1/2 cup Stock (Chicken or Veg)\n1 cup Heavy Cream\n8 Fresh Basil Leaves\n12 oz Jar Roasted Red Peppers- liquid drained\nCrushed Red Chili Flakes\nSalt\n1/2 cup Grated Parmesan\n\nInstructions:\nBlend cream, stock, red peppersm vasil salt and flakes.\nCook pasta ~6 mins.\nCookroased redpepper sauce over med-low heat.\nAdd parm and pasta, cook for anot 2mins, stir constantly.\nServe with extra parm and fresh basil.\nEnjoy!")
 
 
-# 40.times do 
-#     Meal.create(
-#              name: Faker::Food.dish,
-#              ingredients:Faker::Food.dish.description
-#          )
-# end
- 
 
- 
