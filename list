@@ -1,0 +1,75 @@
+=> [[32m#<Meal:0x00007fffd32f5988[0m
+  id: [1;34m1[0m,
+  name: [31m[1;31m"[0m[31mScrambled Eggs & Toast[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m2 Eggs, 1 tbsp Butter, 1/2 tbsp Milk,[1;35m\n[0m[31mSalt & Pepper to taste.[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mWhisk the eggs, milk, salt, and pepper.[1;35m\n[0m[31mMelt butter in pan on med/low heat.[1;35m\n[0m[31mAdd eggs & gently fold for 90 seconds.[1;35m\n[0m[31mRemove from heat & serve on toast.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6e90[0m
+  id: [1;34m2[0m,
+  name: [31m[1;31m"[0m[31mOatmeal[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1/2 cup Oats, 1 cup Milk/Water, Sweetener[1;35m\n[0m[31mand Toppings of your choice.[1;35m\n[0m[31m(Fruit and Nuts work great!)[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mBring liqiud to boil then reduce heat[1;35m\n[0m[31mto low.[1;35m\n[0m[31mPour in oats & allow them to cook[1;35m\n[0m[31muntil thickened & all liquid is[1;35m\n[0m[31mabsorbed. Stir frequently- about 5mins.[1;35m\n[0m[31m top with sweetner & toppings.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6d50[0m
+  id: [1;34m3[0m,
+  name: [31m[1;31m"[0m[31mBagel & Cream Cheese with Toppings[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1 Bagel- split & toasted[1;35m\n[0m[31m2 tbsps Cream Cheese[1;35m\n[0m[31m2 Tomato slices[1;35m\n[0m[31m1 Red Onion slice- halved[1;35m\n[0m[31m1/2 Avocado- peeled & sliced.[1;35m\n[0m[31m1/8 tsps Freshly Ground Black Pepper[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mSpread 1tbsp creamcheese over cut side[1;35m\n[0m[31mof each bagel half.[1;35m\n[0m[31mTop each half with 1 tomato slice,[1;35m\n[0m[31mhalf of onion slice,and half of avocado[1;35m\n[0m[31mslices. Sprinkle with pepper.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6be8[0m
+  id: [1;34m4[0m,
+  name: [31m[1;31m"[0m[31mStrawberry Banana Smoothie[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1 Frozen Banana[1;35m\n[0m[31m1/2 cups Frozen Strawberries[1;35m\n[0m[31m1 cup Unsweetened Milk (Nut/Soy/Animal)[1;35m\n[0m[31m1/2 cup Plain Greek Yogurt (Nut/Soy/Animal)[1;35m\n[0m[31mHoney or Maple Syrup to taste[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mBlend ingredients together until smooth.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6aa8[0m
+  id: [1;34m5[0m,
+  name: [31m[1;31m"[0m[31mCrepes[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1 cup All-Purpose Flour[1;35m\n[0m[31m2 Eggs[1;35m\n[0m[31m1/2 cup Milk[1;35m\n[0m[31m1/2 cup Water[1;35m\n[0m[31m1/4 tsps Salt[1;35m\n[0m[31m2 tbsps Butter, melted[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mIn large bowl, whisk together flour & eggs.[1;35m\n[0m[31mSlowly add in milk and water.[1;35m\n[0m[31mAdd salt and butter, then beat until smooth.[1;35m\n[0m[31mHeat lightly oiled pan on med heat.[1;35m\n[0m[31mPour ~1/4cup of batter per crepe.[1;35m\n[0m[31mTilt pan in circular motion to coat evenly.[1;35m\n[0m[31mCook for ~2mins, flip, cook for 1 more min.[1;35m\n[0m[31mServe hot![1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6968[0m
+  id: [1;34m6[0m,
+  name: [31m[1;31m"[0m[31mHam & Cheese Sandwich[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m2 slices of Bread[1;35m\n[0m[31m1 tbsp Mayonnaise[1;35m\n[0m[31m1 tbsp Dijon Mustard[1;35m\n[0m[31m2 tsps Honey[1;35m\n[0m[31m3 slices Swiss Cheese[1;35m\n[0m[31m3 slices Ham[1;35m\n[0m[31m4 slices Dill Pickle[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mSpread one side of slices with mayonnaise.[1;35m\n[0m[31mCombine mustard and honey.[1;35m\n[0m[31mSpread other side of bread with honey mustard.[1;35m\n[0m[31mTop honey mustard side with ham,[1;35m\n[0m[31mpickles, then cheese.[1;35m\n[0m[31mHeat large skillet over med heat[1;35m\n[0m[31mMayo side out, cook until bread is golden,[1;35m\n[0m[31m&cheese is melted. ~3min per side.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6828[0m
+  id: [1;34m7[0m,
+  name: [31m[1;31m"[0m[31mTomato Feta Soup[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m 2tsps Olive Oil[1;35m\n[0m[31m1/4 cup chopped Onion[1;35m\n[0m[31m4 cloves Garlic[1;35m\n[0m[31m1/2 tsps Salt[1;35m\n[0m[31m1/8 tsp Black Pepper[1;35m\n[0m[31m1/2 tsps Dried Oregano[1;35m\n[0m[31m1 tsp Dried Basil[1;35m\n[0m[31m10 Tomatoes- skinned, seeded, & chopped[1;35m\n[0m[31m1 tsp Honey[1;35m\n[0m[31m3 cups Water[1;35m\n[0m[31m1/3 cup Heavy Cream[1;35m\n[0m[31m2/3 cup Feta Cheese- crumbled[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mHeat olive oil over med in large pot.[1;35m\n[0m[31mAdd onions and cook for 2 mins.[1;35m\n[0m[31mAdd garlic, cook for 1 min. Stir continuously.[1;35m\n[0m[31mAdd tomatoes, salt, pepper, herbs,[1;35m\n[0m[31mtomato paste, and water.[1;35m\n[0m[31mCook on med for 20 mins.[1;35m\n[0m[31mBlend, then add cream and feta.[1;35m\n[0m[31mCook for 1 min more.[1;35m\n[0m[31mSalt to taste. Serve warm.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a66e8[0m
+  id: [1;34m8[0m,
+  name: [31m[1;31m"[0m[31mCaesar Salad[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1 Small Head of Romaine Lettuce[1;35m\n[0m[31m2 tsps Dijon Mustard[1;35m\n[0m[31m1 tsp Worcestershire Sauce[1;35m\n[0m[31m2 tsps Fresh Lemon Juice[1;35m\n[0m[31m1 1/2cup Red Wine Vinegar[1;35m\n[0m[31m1/3 cup Extra Virgin Olive Oil[1;35m\n[0m[31m1/3 cup Parmesan Cheese- shaved[1;35m\n[0m[31m3 cloves Chopped Garlic[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mTo make salad dressing, whisk together[1;35m\n[0m[31mgarlic, dijon, Worcestershire,[1;35m\n[0m[31mlemon juice and red wine vinegar.[1;35m\n[0m[31mSlowly drizzle in e.v.o.o. while whisking.[1;35m\n[0m[31mSeason with salt and pepper to taste.[1;35m\n[0m[31mRinse, dry, and chop romaine into bite-[1;35m\n[0m[31msized pieces. Sprinkle with parmesan[1;35m\n[0m[31m&croutons.[1;35m\n[0m[31mDrizzle dressing and toss to coat.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a65a8[0m
+  id: [1;34m9[0m,
+  name: [31m[1;31m"[0m[31mToasted Peanut Butter &* Jelly Sandwich[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m2 tsps Butter[1;35m\n[0m[31m2 slices White Bread[1;35m\n[0m[31m1 tsp Your Fave Peanut Butter[1;35m\n[0m[31m2 tsps Fave Fruit Jelly (Grape is superior!)[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mHeat skillet on med heat.[1;35m\n[0m[31mSpread butter on unbuttered side of 1 slice.[1;35m\n[0m[31mSpread jelly on unbuttered side of other slice.[1;35m\n[0m[31mPlace buttered side down on pan.[1;35m\n[0m[31mTop with other slice, so that pb & j are in middle.[1;35m\n[0m[31mCook 4 mins per side/ until golden.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6440[0m
+  id: [1;34m10[0m,
+  name: [31m[1;31m"[0m[31mFresh Spring Rolls[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1/2tsp Extra Virgin Olive Oil[1;35m\n[0m[31m1cup Shitake Mushrooms[1;35m\n[0m[31m1 tsp Tamari[1;35m\n[0m[31m4 oz cooked Soba Noodles[1;35m\n[0m[31mPeanut Sauce[1;35m\n[0m[31mVietnamese Rice Papers[1;35m\n[0m[31m1 Avocado- sliced[1;35m\n[0m[31mFresh basil & Mint Leaves[1;35m\n[0m[31m1/4cup Microgreens[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mHeat oil in small skillet over med heat.[1;35m\n[0m[31mAdd mushrooms and cook til browned & soft. ~5mins.[1;35m\n[0m[31mToss noodles in peanut sauce until well coated.[1;35m\n[0m[31mDip rice paper in warm water for 5 secs.[1;35m\n[0m[31mPlace noodles, shrooms, avocado, herbs, and microgreens[1;35m\n[0m[31min center of rice paper. Wrap & tuck sides,[1;35m\n[0m[31mthen bottom. Carefully roll until as tight as possible.[1;35m\n[0m[31mServe with extra peanut sauce and tamari for dipping.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6300[0m
+  id: [1;34m11[0m,
+  name: [31m[1;31m"[0m[31mBroccoli Pesto Pasta[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1lb Cooked Pasta, pasta water reserved[1;35m\n[0m[31m4cups Broccoli Florets[1;35m\n[0m[31m2cps Basil Leaves[1;35m\n[0m[31m2Garlic Cloves[1;35m\n[0m[31m1/4cup Pine Nuts[1;35m\n[0m[31m1 cup Extra Virgin Olive Oil[1;35m\n[0m[31m1/2 tsp Salt[1;35m\n[0m[31m1 cup Parmigiano-Reggiano- grated[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mIn large pot, bring water to boil.[1;35m\n[0m[31mAdd broccoli. Cook for 2 mins.[1;35m\n[0m[31mBlend together broccoli, basil, garlic, pine nuts,[1;35m\n[0m[31molive oil, salt, and Parmegiano-Regiano until smooth.[1;35m\n[0m[31mSlowly pour in reserved pasta water until sauce forms.[1;35m\n[0m[31mToss hot pasta with sauce until completely coated.[1;35m\n[0m[31mTop with extra parmesan, pine nuts, & chili flakes.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a6198[0m
+  id: [1;34m12[0m,
+  name: [31m[1;31m"[0m[31mFish and Chips[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m4 Large Potatoes[1;35m\n[0m[31m1cup AP Flour[1;35m\n[0m[31m1 tsp Baking Powder[1;35m\n[0m[31m1 tsp Salt[1;35m\n[0m[31m1 tsp Ground Black Pepper[1;35m\n[0m[31m1cup Milk[1;35m\n[0m[31m1 Egg[1;35m\n[0m[31m1 qrt Veggie Oil for frying[1;35m\n[0m[31m1 1/2lbs Cod Fillets[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mSoak potatoes cold water.[1;35m\n[0m[31mMix flour, baking powder, salt, & pepper.[1;35m\n[0m[31mStir in milk and egg til smooth. Let sit for 20mins.[1;35m\n[0m[31mPreheat oil in large pot to 350 degrees.[1;35m\n[0m[31mFry potatoes in oil until tender. Drain on paper towels.[1;35m\n[0m[31mDredge fish in batter & Fry in hot oil until golden.[1;35m\n[0m[31mDrain on paper towels.[1;35m\n[0m[31mFry potatoes again for added crispiness. ~1 to 2 mins[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a5fe0[0m
+  id: [1;34m13[0m,
+  name: [31m[1;31m"[0m[31mHoney Garlic Chicken[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m2tspss Olive Oil[1;35m\n[0m[31m1 1/2 lbs Chicken Breasts- boneless, skinless, cubed[1;35m\n[0m[31mSalt and Black Pepper[1;35m\n[0m[31m3 tbsps Honey[1;35m\n[0m[31m3 tbsps Soy Sauce[1;35m\n[0m[31m3 cloves Garlic- minced[1;35m\n[0m[31m1/4 tsps Red Pepper Flakes[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mHeat olive oil over med heat.[1;35m\n[0m[31mLightly season cubed chicken with salt and pepper.[1;35m\n[0m[31mBrown chicken in pan ~3 to 4 mins.[1;35m\n[0m[31mWhisk honwy, soy sauce, garlic and red pepper flakes.[1;35m\n[0m[31mAdd sauce to pan & toss. Cook another 4 to 5 mins.[1;35m\n[0m[31mServe with sides of your choice.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a5e78[0m
+  id: [1;34m14[0m,
+  name: [31m[1;31m"[0m[31mShrimp Scampi[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m2tbsps butter [1;35m\n[0m[31m2tbsps Extra Virgin Olive Oil[1;35m\n[0m[31m4 Garlic Cloves- minced[1;35m\n[0m[31m1/2 cup Dry White Wine or Broth[1;35m\n[0m[31mSalt and Pepper to taste[1;35m\n[0m[31mCrushed Red Chili Flakes, also to taste[1;35m\n[0m[31m1 3/4 lbs Large Shrimp[1;35m\n[0m[31m1/3 cup Chopped Parsley[1;35m\n[0m[31mFresh Squeezed Juice of Half a Lemon[1;35m\n[0m[31mCooked Pasta or Crusty Bread[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mIn largeskillet, melt butter with olive oil.[1;35m\n[0m[31mAdd wine or broth, salt, red pepper, and black pepper.[1;35m\n[0m[31mLet reduce ~2mins.[1;35m\n[0m[31mAdd Shrimp and saute until pink, ~2 to 4 mins.[1;35m\n[0m[31mStir in parsley and lemon juice.[1;35m\n[0m[31mServe over pasta or with crusty bread.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Meal:0x00007fffd33a5a40[0m
+  id: [1;34m15[0m,
+  name: [31m[1;31m"[0m[31mRoasted Red Pepper Pasta[1;31m"[0m[31m[0m,
+  recipe:
+   [31m[1;31m"[0m[31mIngredients:[1;35m\n[0m[31m1 lb Rigatoni[1;35m\n[0m[31m1/2 cup Stock (Chicken or Veg)[1;35m\n[0m[31m1 cup Heavy Cream[1;35m\n[0m[31m8 Fresh Basil Leaves[1;35m\n[0m[31m12 oz Jar Roasted Red Peppers- liquid drained[1;35m\n[0m[31mCrushed Red Chili Flakes[1;35m\n[0m[31mSalt[1;35m\n[0m[31m1/2 cup Grated Parmesan[1;35m\n[0m[31m[1;35m\n[0m[31mInstructions:[1;35m\n[0m[31mBlend cream, stock, red peppersm vasil salt and flakes.[1;35m\n[0m[31mCook pasta ~6 mins.[1;35m\n[0m[31mCookroased redpepper sauce over med-low heat.[1;35m\n[0m[31mAdd parm and pasta, cook for anot 2mins, stir constantly.[1;35m\n[0m[31mServe with extra parm and fresh basil.[1;35m\n[0m[31mEnjoy![1;31m"[0m[31m[0m[32m>[0m]

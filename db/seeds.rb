@@ -11,17 +11,19 @@ ralph = User.create(username: "Ralph", password: "ral123")
 
 
 
-arr1 = ["Monday","Tuesday","Wednesday", "Thursday", "Friday"]
-arr2 = ["Breakfast", "Lunch", "Dinner"]
+mealplan0 = Mealplan.create( id: 1, day: "Monday", time: "Breakfast", user_id: 1, meal_id: 1)
+mealplan1 = Mealplan.create( id: 2, day: "Friday", time: "Lunch", user_id: 2, meal_id: 2)
+mealplan2 = Mealplan.create( id: 3, day: "Monday", time: "Breakfast", user_id: 3, meal_id: 3)
+mealplan3 = Mealplan.create( id: 4, day: "Tuesday", time: "Dinner", user_id: 4, meal_id: 4)
+mealplan4 = Mealplan.create( id: 5, day: "Tuesday", time: "Dinner", user_id: 1, meal_id: 5)
+mealplan5 = Mealplan.create( id: 6, day: "Tuesday", time: "Breakfast", user_id: 2, meal_id: 6)
+mealplan6 = Mealplan.create( id: 7, day: "Wednesday", time: "Dinner", user_id: 3, meal_id: 7)
+mealplan7 = Mealplan.create( id: 8, day: "Thursday", time: "Lunch", user_id: 4, meal_id: 8)
+mealplan8 = Mealplan.create( id: 9, day: "Thursday", time: "Breakfast", user_id: 3, meal_id: 9)
+mealplan9 = Mealplan.create( id: 10, day: "Friday", time: "Dinner" , user_id: 1, meal_id: 11)
 
-10.times do 
-    mealplan = Mealplan.create(
-         day: arr1.sample,
-         time: arr2.sample,
-         user_id: rand(1..25),
-         meal_id: rand(1..40)
-     )
- end
+
+
 
 scrambled = Meal.create(name: "Scrambled Eggs & Toast", recipe:"Ingredients:\n2 Eggs, 1 tbsp Butter, 1/2 tbsp Milk,\nSalt & Pepper to taste.\n\nInstructions:\nWhisk the eggs, milk, salt, and pepper.\nMelt butter in pan on med/low heat.\nAdd eggs & gently fold for 90 seconds.\nRemove from heat & serve on toast.\nEnjoy!")
 oatmeal = Meal.create(name: "Oatmeal", recipe:"Ingredients:\n1/2 cup Oats, 1 cup Milk/Water, Sweetener\nand Toppings of your choice.\n(Fruit and Nuts work great!)\n\nInstructions:\nBring liqiud to boil then reduce heat\nto low.\nPour in oats & allow them to cook\nuntil thickened & all liquid is\nabsorbed. Stir frequently- about 5mins.\n top with sweetner & toppings.\nEnjoy!")

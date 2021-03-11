@@ -19,11 +19,12 @@ class User < ActiveRecord::Base
         user_inst
     end
 
-    def view_plan
-        @user.mealplans
-    end
+    # def view_plan
+    #     @user.mealplans
+    # end
 
 
+    
     # def create_plan
     #     TTY::Prompt.new.select 
 
