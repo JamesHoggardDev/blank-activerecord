@@ -58,14 +58,13 @@ class Interface
       
             meal = Meal.find(mealplan_inst.meal_id)
 
-            puts "#{mealplan_inst.day} "+- "#{mealplan_inst.time} "+- "#{meal.name}"
+            puts "#{mealplan_inst.day} "+- "#{mealplan_inst.time} "+- "#{ meal.name}"
             
-        end  
+        end 
     end
 
     def create_helper
 
-       
         list = Meal.all.map do |meal_inst|       
         meal_inst.name
         end   
@@ -83,14 +82,15 @@ class Interface
     end
 
     def edit_helper
-        @user.edit_plan
+        edit_plan
     end
 
     def edit_plan
         puts "Please enter a meal to be removed" 
         answer = STDIN.gets.chomp
         meal = Meal.find_by(name: answer)
-        @user.mealplans.destroy(meal.id)
+        meal_id = meal.id
+        @user.mealplans.meal_id.destroy
         puts "Let's continue"
         main_menu
     end
